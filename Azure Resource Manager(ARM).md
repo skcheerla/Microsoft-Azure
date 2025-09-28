@@ -2,6 +2,10 @@
 
 When you interact with Azure—whether through the Azure Portal, PowerShell, Azure CLI, or REST APIs—you are sending requests to Azure Resource Manager, which authenticates, authorizes, and processes those requests before forwarding them to the appropriate Azure service.
 
+
+<img width="1167" height="591" alt="image" src="https://github.com/user-attachments/assets/e99deb9d-73ff-411b-b237-c36f4cd21e5e" />
+
+
 ***
 
 ## Key Features and Concepts
