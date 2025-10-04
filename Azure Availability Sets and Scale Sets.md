@@ -38,6 +38,9 @@ It is important to understand that Availability Sets only protect you from failu
 | **SLA** | 99.95% | 99.99% (when using multiple zones) |
 
 
+
+## Azure Virtual Machine Scale Sets (VMSS)
+
 **Azure Virtual Machine Scale Sets (VMSS)** allow you to create and manage a group of identical, load-balanced Virtual Machines (VMs). They provide the ability to automatically increase or decrease the number of VM instances in response to demand or a defined schedule.
 
 Scale Sets are designed to provide **high availability**, **application resiliency**, and **simplified management** for large-scale applications.
